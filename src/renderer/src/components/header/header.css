@@ -1,0 +1,6 @@
+:not(.headerTitle){
+    -webkit-app-region: no-drag;   
+}
+#headerTitle{
+    -webkit-app-region: drag
+}
